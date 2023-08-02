@@ -2,12 +2,12 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-01T20:43:56 CDT" name="Suite" finished-at="2023-08-01T20:44:04 CDT" duration-ms="8223">
+  <suite started-at="2023-08-01T20:56:54 CDT" name="Suite" finished-at="2023-08-01T20:57:03 CDT" duration-ms="8939">
     <groups>
     </groups>
-    <test started-at="2023-08-01T20:43:56 CDT" name="TestPart2" finished-at="2023-08-01T20:44:04 CDT" duration-ms="8223">
+    <test started-at="2023-08-01T20:56:54 CDT" name="TestPart2" finished-at="2023-08-01T20:57:03 CDT" duration-ms="8939">
       <class name="Tests.TestHerokuApp">
-        <test-method is-config="true" signature="beforeTest(java.lang.String,java.lang.String)[pri:0, instance:Tests.TestHerokuApp@4310d43]" started-at="2023-08-01T20:43:56 CDT" name="beforeTest" finished-at="2023-08-01T20:43:58 CDT" duration-ms="1957" status="PASS">
+        <test-method is-config="true" signature="beforeTest(java.lang.String,java.lang.String)[pri:0, instance:Tests.TestHerokuApp@6340e5f0]" started-at="2023-08-01T20:56:54 CDT" name="beforeTest" finished-at="2023-08-01T20:56:56 CDT" duration-ms="2133" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,11 +23,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="testHerokuApp2()[pri:0, instance:Tests.TestHerokuApp@4310d43]" started-at="2023-08-01T20:43:58 CDT" name="testHerokuApp2" finished-at="2023-08-01T20:44:03 CDT" duration-ms="5713" status="PASS">
+        <test-method signature="testHerokuApp2()[pri:0, instance:Tests.TestHerokuApp@6340e5f0]" started-at="2023-08-01T20:56:56 CDT" name="testHerokuApp2" finished-at="2023-08-01T20:57:02 CDT" duration-ms="6122" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHerokuApp2 -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:Tests.TestHerokuApp@4310d43]" started-at="2023-08-01T20:44:03 CDT" name="afterTest" finished-at="2023-08-01T20:44:04 CDT" duration-ms="531" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Tests.TestHerokuApp@6340e5f0]" started-at="2023-08-01T20:57:02 CDT" name="afterTest" finished-at="2023-08-01T20:57:03 CDT" duration-ms="660" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
